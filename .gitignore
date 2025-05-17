@@ -1,0 +1,5 @@
+.idea/
+.venv/
+test/
+.git/
+src/https/__pycache__
